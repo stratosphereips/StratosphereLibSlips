@@ -25,7 +25,7 @@ $ sudo make install (optional for testing purposes)
 ## RUN
 
 ```shell
-$ cd test
+$ cd code
 $ ./slips slips.conf
 ```
 
